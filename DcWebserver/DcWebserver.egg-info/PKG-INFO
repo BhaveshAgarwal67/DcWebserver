@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: DcWebserver
+Version: 0.0.1
+Summary: A module to make your discord bots online 24/7
+Home-page: UNKNOWN
+Author: Abhinav Singh Rathore
+Author-email: sketchquicksilver@gmail.com
+License: MIT
+Keywords: Webserver
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Discord Bot Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+# DcWebserver
+This is a python module for discord bot makers, this module helps you in hostineg your bot on uptimer services ,as it opens a window and then all you have to do is to copy the address of the window and host it on a uptimer service 
+
+# Using DcWebserver
+To use this module after installing You have to just include `keepAlive()` after the code and before making the discord client run your bot token
+
+# Dependecies 
+
+This module depends on 2 other modules namely 
+<br> 1 )Flask
+<br>2 )Threading
+
+Installing
+----------
+
+Install and update using `pip`_:
+
+
+
+    $ pip install DcWebserver
+
+# Developer 
+Made By [itzQuicksilver](https://github.com/QuicksilverYT)
+
+Change Log
+===
+
+0.0.1(19/04/2022)
+-----------------
+-First Release
+

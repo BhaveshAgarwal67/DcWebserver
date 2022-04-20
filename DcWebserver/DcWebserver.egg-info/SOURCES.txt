@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+__init__.py
+setup.py
+DcWebserver.egg-info/PKG-INFO
+DcWebserver.egg-info/SOURCES.txt
+DcWebserver.egg-info/dependency_links.txt
+DcWebserver.egg-info/requires.txt
+DcWebserver.egg-info/top_level.txt
